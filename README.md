@@ -1,1 +1,1 @@
-# golang-studies
+# go-studies
